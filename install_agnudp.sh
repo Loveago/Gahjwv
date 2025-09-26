@@ -22,10 +22,10 @@ PROTOCOL="udp"
 UDP_PORT=":36712"
 
 # OBFS
-OBFS="fuckyou1"
+OBFS="weback1"
 
 # PASSWORDS
-PASSWORD="idiots1"
+PASSWORD="weback1"
 
 # Basename of this script
 SCRIPT_NAME="$(basename "$0")"
